@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=d
+comment1.target=void\ game(int)
+comment2.params=c
+comment2.target=void\ player1(int)
+comment3.params=c
+comment3.target=void\ player2(int)
+numComments=4
