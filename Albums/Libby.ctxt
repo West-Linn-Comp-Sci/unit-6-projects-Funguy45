@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Libby
+comment1.params=
+comment1.target=void\ list()
+comment2.params=name\ artist\ tracknum\ runtime
+comment2.target=void\ makeAl(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=c
+comment3.target=void\ delete(int)
+comment4.params=c
+comment4.target=void\ multi(int)
+comment5.params=c
+comment5.target=void\ sort(int)
+numComments=6
